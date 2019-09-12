@@ -22,7 +22,7 @@ HoseungJang:
   # Comment/uncommet to show/hide
   # Icons appear in order, can be rearranged:
   social:
-    #facebook:        zzsza
+    # facebook:        zzsza
     # twitter:         <username>
     # google:          <number>
     # vk:              <username>
@@ -32,7 +32,7 @@ HoseungJang:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    #instagram:       data.scientist
+    # instagram:       data.scientist
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
@@ -58,7 +58,7 @@ HoseungJang:
     # stumbleupon:     <username>
     # paypal:          <username>
     # email:           mailto:snugyun01@gmail.com
-    rss:             https://HoseungJang.github.io/feed.xml
+    # rss:             https://HoseungJang.github.io/feed.xml
 
 # Another author
 mdo:
