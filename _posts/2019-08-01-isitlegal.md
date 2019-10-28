@@ -7,7 +7,7 @@ comments: true
 ---
 # 알법
 
-https://github.com/isitlegal
+[https://github.com/isitlegal](https://github.com/isitlegal)
 
 #### 알법은 무엇인가
 
