@@ -3,8 +3,8 @@ layout: list
 title: Project
 slug: project
 menu: true
-submenu: true
-order: 3
+submenu: false
+order: 1
 description: >
   프로젝트 정리
 ---
