@@ -3,6 +3,7 @@ layout: post
 title:  "프로젝트 알법"
 subtitle:   ""
 categories: project
+tags : project
 comments: true
 ---
 # 알법
