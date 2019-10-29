@@ -10,6 +10,8 @@ comments: true
 
 [https://github.com/isitlegal](https://github.com/isitlegal)
 
+[https://github.com/isitlegal/Server](https://github.com/isitlegal/Server)
+
 #### 알법은 무엇인가
 
  2019년 여름방학 전 시작했던 프로젝트입니다. 저는 node.js와 express를 이용한 서버 개발을 맡았고, 데이터 분석을 하는 친구, 안드로이드를 개발하는 친구들이 함께했습니다.
