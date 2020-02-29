@@ -2,8 +2,8 @@
 layout: post
 title:  "프로젝트 대마장터"
 subtitle:   ""
-categories: project
-tags : project
+categories: learn
+tags : learn
 comments: true
 ---
 # 대마장터

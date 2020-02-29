@@ -2,8 +2,8 @@
 layout: post
 title:  "프로젝트 plusYoutube"
 subtitle:   ""
-categories: project
-tags : project
+categories: learn
+tags : learn
 comments: true
 ---
 # PlusYoutube
