@@ -1,10 +1,10 @@
 ---
 layout: list
-title: Project
-slug: project
+title: Learn
+slug: learn
 menu: true
 submenu: false
 order: 1
 description: >
-  프로젝트 정리
+  배운점 정리
 ---
